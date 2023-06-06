@@ -1,0 +1,5 @@
+Use your package manager to install the various dependencies
+
+ffmpeg
+yt-dlp
+
